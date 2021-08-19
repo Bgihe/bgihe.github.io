@@ -8,11 +8,11 @@
     <loc>https://example.com/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
